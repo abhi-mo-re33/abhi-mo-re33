@@ -1,11 +1,9 @@
 Hi 👋 My name is Abhijeet More
 ==============================
 
-Data Scientist
+DevOps Engineer
 --------------
 
-Working From more than 5+ yrs. For Structural Steel Design Field as Designer. Looking for Data scientist Job role as I have done project work and certification
-
-* 🌍  I'm based in Hyderabad
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [abhi.more33@gmail.com](mailto:abhi.more33@gmail.com)
-* 🧠  I'm learning Data Science
+* 🧠  I'm Practcing DevOps
